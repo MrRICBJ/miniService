@@ -2,7 +2,7 @@
 Для запуска необходимо выполнить следующие команды:
 # Клонируем репозиторий
 ```
-git clone https://github.com/MrRICBJ/CRB_Course
+git clone https://github.com/MrRICBJ/miniService.git
 ```
 # Запускаем
 ```
